@@ -19,4 +19,11 @@ Apart from these papers, I have also invested time in watching tutorials on RL a
 lorem ipsum  
 
 ## Sem 7  
-lorem ipsum
+### Track 1: Power TAC
+### Track 2: Negotiation & LSTM
+### Track 3: Privacy Preserving Machine Learning
+### Track 4: Reinforcement Learning
+### Track 5: Blockchain
+
+## To read list:
+lorem ipsum  
