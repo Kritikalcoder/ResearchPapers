@@ -20,7 +20,9 @@ lorem ipsum
 
 ## Sem 7  
 ### Track 1: Power TAC
+The 2018 Power Trading Agent Competition  
 ### Track 2: Negotiation & LSTM
+Deal or No Deal? End-to-End Learning for Negotiation Dialogues  
 ### Track 3: Privacy Preserving Machine Learning
 ### Track 4: Reinforcement Learning
 ### Track 5: Blockchain
