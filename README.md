@@ -17,14 +17,20 @@ Apart from these papers, I have also invested time in watching tutorials on RL a
 
 ## Sem 6
 ### Track 1: Negotiation
-### Track 2: Reinforcement Learning
+### Track 2: Reinforcement Learning 
 ### Track 3: Decentralized MDPs
 Solving Transition Independent Decentralized Markov Decision Processes  
 Planning and Learning For Decentralized MDPs With Event Driven Rewards  
+### Track 4: Multi Agent Systems
 
 ## Sem 7  
 ### Track 1: Power TAC
 The 2018 Power Trading Agent Competition  
+[to read] TacTex’13: A Champion Adaptive Power Trading Agent  
+[to read] Autonomous Electricity Trading using Time-Of-Use Tariffs in a Competitive Market  
+[to read] An MDP-Based Winning Approach to Autonomous Power Trading: Formalization and Empirical Analysis  
+[to read] AgentUDE17: Imbalance Management of a Retailer Agent to Exploit Balancing Market Incentives in a Smart Grid Ecosystem  
+[to read] Fixed-price Tariff Generation Using Reinforcement Learning  
 ### Track 2: Negotiation & LSTM
 Deal or No Deal? End-to-End Learning for Negotiation Dialogues  (Facebook AI Research + code)  
 [brief] DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks  
@@ -32,15 +38,19 @@ The Negotiation Dance: Time, Culture, and Behavioral Sequences in Negotiation
 [brief] “I think it might help if we multiply, and not add” : Detecting Indirectness in Conversation  
 Long Short Term Memory for Driver Intent Prediction  
 ### Track 3: Privacy Preserving Machine Learning
-[Book] The Algorithmic Foundations of Differential Privacy  
+[book] The Algorithmic Foundations of Differential Privacy  
 The Johnson-Lindenstrauss Transform itself preserves Differential Privacy  
 GELU-Net: A Globally Encrypted, Locally Unencrypted Deep Neural Network for Privacy-Preserved Learning  
 Secure Face Matching Using Fully Homomorphic Encryption  
 Deep Learning with Differential Privacy  
 ### Track 4: Reinforcement Learning
 ### Track 5: Blockchain  
+Bitcoin: A Peer-to-Peer Electronic Cash System  
+Speed-Security Tradeos in Blockchain Protocols (Reading Assignment)  
 ### Track 6: General
 How to Read a paper  
+[finish] The PhD Grind (book)  
+Apart from these papers, I picked up a decent background in Time Series Forecasting.
 
 ## To read list:
 Human-level control through deep reinforcement learning  
@@ -50,7 +60,6 @@ Deep Reinforcement Learning with Double Q-Learning
 SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient  
 Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog  
 Learning Purposeful Behaviour in the Absence of Rewards  
-[Finish] The PhD Grind (book)  
 AAAI 2018 Notes  
-[Lecture] Adversarial Machine Learning: Ian Goodfellow  
+[lecture] Adversarial Machine Learning: Ian Goodfellow  
 Solving the Rubik’s Cube Without Human Knowledge  
