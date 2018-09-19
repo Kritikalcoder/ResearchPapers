@@ -2,21 +2,31 @@
 A repository of all the research papers I read
 
 ## Sem 5  
-1. Towards a formalization of Teamwork with Resource constraints (implementation)  
-2. Constructing Optimal Policies for Agents with Constrained Architectures  
-3. Coordinating occupant behavior for building energy and comfort management using multi-agent systems  
-4. Towards adjustable autonomy for the real world  
-5. An introduction to Reinforcement Learning (textbook)- Chapters 1-6  
-6. Dynamic Multi Criteria Reinforcement Learning - (implementation)  
-7. The Malmo Platform for Artificial Intelligence Experimentation - tool  
-8. A Comprehensive Survey on Safe Reinforcement Learning - in brief  
-9. HogRider: Champion Agent of Microsoft Malmo Collaborative AI Challenge (implementation)  
-(more need to be added)  
+### Track 1: Honours Exploration
+Towards a formalization of Teamwork with Resource constraints (implementation)  
+Constructing Optimal Policies for Agents with Constrained Architectures  
+Coordinating occupant behavior for building energy and comfort management using multi-agent systems  
+Towards adjustable autonomy for the real world  
+An introduction to Reinforcement Learning (textbook)- Chapters 1-6  
+Dynamic Preferences in Multi Criteria Reinforcement Learning - (implementation)  
+The Malmo Platform for Artificial Intelligence Experimentation - tool  
+A Comprehensive Survey on Safe Reinforcement Learning - in brief  
+HogRider: Champion Agent of Microsoft Malmo Collaborative AI Challenge (implementation)  
+### Track 2: Multi-Agent Systems
+Heuristic for Multiagent Reinforcement Learning in Decentralized Decision Problems  
+Point-based Dynamic Programming for Dec-POMDPs  
+Taming Decentralized POMDPs: Towards Efficient Policy Computation for Multiagent Settings  
+
+
+
+
 
 Apart from these papers, I have also invested time in watching tutorials on RL and in general, developing a better understanding of RL, by looking at various other applications and papers. I haave also explored DQNs to a certain degree.  
 
 ## Sem 6
 ### Track 1: Negotiation
+Optimal non-adaptive Concession strategies with Incomplete Information  
+
 ### Track 2: Reinforcement Learning 
 ### Track 3: Decentralized MDPs
 Solving Transition Independent Decentralized Markov Decision Processes  
