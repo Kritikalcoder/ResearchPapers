@@ -26,8 +26,9 @@ Apart from these papers, I have also invested time in watching tutorials on RL a
 ## Sem 6
 ### Track 1: Negotiation
 Optimal non-adaptive Concession strategies with Incomplete Information  
-
+An Adaptive Bilateral Negotiation Model based on Bayesian Learning  
 ### Track 2: Reinforcement Learning 
+[book] Reinforcement Learning: An Introduction
 ### Track 3: Decentralized MDPs
 Solving Transition Independent Decentralized Markov Decision Processes  
 Planning and Learning For Decentralized MDPs With Event Driven Rewards  
