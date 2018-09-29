@@ -62,6 +62,10 @@ Speed-Security Tradeos in Blockchain Protocols (Reading Assignment)
 How to Read a paper  
 [finish] The PhD Grind (book)  
 Apart from these papers, I picked up a decent background in Time Series Forecasting.
+### Track 7: Digital Image Processing
+LaTeX Generation from Printed Equations  
+Geometric Feature Points Based Optical Character Recognition  
+Visual Pattern Recognition by Moment Invariants  
 
 ## To read list:
 Human-level control through deep reinforcement learning  
