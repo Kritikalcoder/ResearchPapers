@@ -23,7 +23,7 @@ Taming Decentralized POMDPs: Towards Efficient Policy Computation for Multiagent
 
 Apart from these papers, I have also invested time in watching tutorials on RL and in general, developing a better understanding of RL, by looking at various other applications and papers. I haave also explored DQNs to a certain degree.  
 
-## Sem 6
+## Sem 6 (To be updated)
 ### Track 1: Negotiation
 Optimal non-adaptive Concession strategies with Incomplete Information  
 An Adaptive Bilateral Negotiation Model based on Bayesian Learning  
