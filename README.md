@@ -54,6 +54,9 @@ The Johnson-Lindenstrauss Transform itself preserves Differential Privacy
 GELU-Net: A Globally Encrypted, Locally Unencrypted Deep Neural Network for Privacy-Preserved Learning  
 Secure Face Matching Using Fully Homomorphic Encryption  
 Deep Learning with Differential Privacy  
+Analyze Gauss: Optimal Bounds for Privacy-Preserving Principal Component Analysis  
+Random Projection-Based Multiplicative Data Perturbation for Privacy Preserving Distributed Data Mining  
+Interactive Privacy via the Median Mechanism  
 ### Track 4: Reinforcement Learning
 ### Track 5: Blockchain  
 Bitcoin: A Peer-to-Peer Electronic Cash System  
