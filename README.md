@@ -81,3 +81,13 @@ Learning Purposeful Behaviour in the Absence of Rewards
 AAAI 2018 Notes  
 [lecture] Adversarial Machine Learning: Ian Goodfellow  
 Solving the Rubik’s Cube Without Human Knowledge  
+
+## Sem 8:
+Game Theory:
+
+
+## Summer 2019:
+### Privacy track
+### RL track
+### PowerTAC
+
