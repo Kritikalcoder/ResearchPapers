@@ -94,11 +94,14 @@ Game Theory:
 ## Fifth year:
 
 ### Privacy preserving ML
-
+Differentially private JL transform
 
 ### Privacy in PCA
+Analyze Gauss (Cynthia Dwork)
+
 
 ### General
+Statistical foundations of virtual democracy
 
 ### Monte Carlo
 
